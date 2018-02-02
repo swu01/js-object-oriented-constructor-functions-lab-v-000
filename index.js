@@ -14,3 +14,5 @@ function PickupLocation(address, city) {
   this.address = address;
   this.city = city;
 }
+
+//let sammy = new Driver('sammy', 26, 3)
